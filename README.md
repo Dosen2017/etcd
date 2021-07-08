@@ -56,3 +56,4 @@
     /opt/etcd/etcdctl put /test/aaa bbb 
     /opt/etcd/etcdctl get /test/aaa
     /opt/etcd/etcdctl del /test/aaa
+    
