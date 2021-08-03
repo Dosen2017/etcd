@@ -57,3 +57,7 @@
     /opt/etcd/etcdctl get /test/aaa
     /opt/etcd/etcdctl del /test/aaa
     
+    **windows 查找前缀为user.rpc的方法**
+    .\etcdctl.exe get user.rpc --prefix
+    
+    
